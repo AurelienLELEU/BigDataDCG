@@ -1,6 +1,6 @@
 ## **DCG.media - Aurélien LELEU**
 
-### **Etapes : **
+### Etapes : 
 1. **Web scraping** des différents sites avec python et beautiful soup.
 2. **Analyse des données** avec Powerbi.
 
@@ -27,4 +27,4 @@
    ```bash
    pip install bs4 pandas numpy ydata-profiling plotly tqdm ipywidgets
    ```
-3. Lancer les notebooks pour générer les différents CSVs :
+3. Lancer les notebooks pour générer les différents CSVs
